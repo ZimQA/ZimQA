@@ -1,4 +1,4 @@
-<h2 style="margin-bottom: 0; border-bottom: none !important; padding-bottom: 0;">Привет, я Станислав! 👋</h2>
+<h3 style="margin-bottom: 0;">Привет, я Станислав! 👋</h3>
 <h3 style="margin-top: 0;">QA Engineer | Manual & Automation Testing 👨‍💻</h3>
 
 
