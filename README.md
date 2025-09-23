@@ -8,7 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_title=true&hide=prs,issues&count_private=true&card_width=300)
+![QA Stats](https://github-readme-stats.vercel.app/api/pin/?username=ZimQA&repo=your-best-repo&theme=dark)
 
 
 
