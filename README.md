@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp;
