@@ -8,7 +8,7 @@
 
 ## 📊 Статистика
 
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql,html,git)](https://skillicons.dev)
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=ZimQA)
@@ -17,11 +17,9 @@
 
 
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
+[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql,html)](https://skillicons.dev)
 <br>
 
 ## Тестирование API и интеграций
