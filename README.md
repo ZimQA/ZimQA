@@ -1,7 +1,5 @@
 <h3>Привет, я Станислав! 👋<br>QA Engineer | Manual & Automation Testing 👨‍💻</h3>
 
-
-
 🚀 Специалист по качеству с фокусом на процессы  
 🧠 Использую глубокое ручное тестирование для полного понимания продукта  
 💡 Автоматизирую тестирование для надежности и скорости  
@@ -9,12 +7,10 @@
 
 ## 📊 Статистика
 
-
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide=prs,issues&count_private=true)
 
 
 
