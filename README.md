@@ -10,16 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues,contribs,title&line_height=40&card_width=420)
 
-
-
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=420)
-
 ## 🧪 Мой инструментарий
 
 ### 🚀 **Бэкенд и базы данных**
