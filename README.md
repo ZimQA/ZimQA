@@ -83,14 +83,6 @@
     <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   </div>
 
-
-
-
-
-
-
-<br>
-
 ## 🪴 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
