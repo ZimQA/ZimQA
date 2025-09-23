@@ -9,11 +9,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=420)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=420)
-
-
-
-
-
+![Waketime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZimQA&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Snake animation](https://github.com/ZimQA/ZimQA/blob/output/github-contribution-grid-snake.svg)
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,jira,git,github,docker)](https://skillicons.dev)
 
 
 
