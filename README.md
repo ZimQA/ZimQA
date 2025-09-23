@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github)
+
 <br>
 
 ## Тестирование API и интеграций
