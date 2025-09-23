@@ -1,5 +1,7 @@
-<h3 style="margin-bottom: -5px;">Привет, я Станислав! 👋</h3>
-<h3 style="margin-top: -5px;">QA Engineer | Manual & Automation Testing 👨‍💻</h3>
+<div style="line-height: 0.8;">
+<h3 style="margin-bottom: 0;">Привет, я Станислав! 👋</h3>
+<h3 style="margin-top: 0;">QA Engineer | Manual & Automation Testing 👨‍💻</h3>
+</div>
 
 
 
