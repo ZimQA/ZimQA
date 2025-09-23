@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=300)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=300)
-![🚀 Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=ZimQA&repo=your-best-repo&theme=dark&card_width=600)
+
 
 
 
