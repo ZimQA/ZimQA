@@ -10,13 +10,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=420)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=420)
 
+### 🎯 Мой стек технологий
+
+**💾 Backend & Desktop:**
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql)](https://skillicons.dev)
+
+**🌐 Frontend & Tools:**
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
 
 
 
 
 
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql,html)](https://skillicons.dev)
-<br>
+
 
 ## Тестирование API и интеграций
 <div>
