@@ -8,14 +8,14 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?username=ZimQA&hide=prs&show_icons=true&theme=radical&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,cpp,qt,html,js,css)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=ZimQA)
 
 ![](https://github-readme-stats.vercel.app/api?username=German-D&show_icons=true&theme=radical&hide_title=true&hide=prs&card_width=300)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql,py,js,html,css,git)](https://skillicons.dev)
+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
