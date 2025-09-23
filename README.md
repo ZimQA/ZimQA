@@ -7,10 +7,10 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=320)
-![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=320)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=300)
+![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=300)
 
-![QA Stats](https://github-readme-stats.vercel.app/api/pin/?username=ZimQA&repo=your-best-repo&theme=dark&card_width=640)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZimQA&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
