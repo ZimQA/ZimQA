@@ -3,24 +3,23 @@
 
 🚀 Специалист по качеству с фокусом на процессы  
 🧠 Использую глубокое ручное тестирование для полного понимания продукта  
-💡 Код не страшит, а помогает находить хитрые баги  
-💡 Пишу код для быстрого, умного и надежного тестирования  
+💡 Автоматизирую тестирование для надежности и скорости
 ❤️ Разработка и тестирование — две стороны одного процесса
-
-
 
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
 
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
+![](https://github-readme-stats.vercel.app/api?username=German-D&show_icons=true&theme=radical&hide_title=true&hide=prs&card_width=300)
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql,py,js,html,css,git)](https://skillicons.dev)
 
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github)
 <br>
 
 ## Тестирование API и интеграций
