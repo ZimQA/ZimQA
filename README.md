@@ -79,8 +79,7 @@
   <div>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp;
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp;
-    <img src="https://skillicons.dev/icons?i=jira" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-    <img src="https://skillicons.dev/icons?i=confluence" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub Issues" alt="GitHub Issues" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab Issues" alt="GitLab Issues" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   </div>
