@@ -12,7 +12,7 @@
 
 ## 🧪 Мой инструментарий
 
-# 💻 **Фронтенд и инструменты разработки**
+### 💻 **Фронтенд и инструменты разработки**
 <div>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-# 🚀 **Бэкенд и базы данных**
+### 🚀 **Бэкенд и базы данных**
 <div>
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
-# Тестирование API и интеграций
+### Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
