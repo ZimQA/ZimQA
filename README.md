@@ -8,7 +8,7 @@
 
 ## 📊 Статистика
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,cpp,qt,html,js,css)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql,html,git)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=ZimQA)
