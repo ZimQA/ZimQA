@@ -12,14 +12,24 @@
 
 ## 🧪 Мой инструментарий
 
-# Backend & Desktop:
+# 💻 **Фронтенд и инструменты разработки**
 <div>
-  [![Backend](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql)](https://skillicons.dev)  
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-# Frontend & Tools
+# 🚀 **Бэкенд и базы данных**
 <div>
-  [![Frontend](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=qt" title="QT" alt="QT" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
 # Тестирование API и интеграций
