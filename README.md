@@ -12,19 +12,17 @@
 
 ## 🧪 Мой инструментарий
 
-**💾 Backend & Desktop:**
-[![Backend](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql)](https://skillicons.dev)
+# Backend & Desktop:
+<div>
+  [![Backend](https://skillicons.dev/icons?i=cs,dotnet,cpp,qt,py,postgresql)](https://skillicons.dev)  
+</div>
 
-**🌐 Frontend & Tools:**
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+# Frontend & Tools
+<div>
+  [![Frontend](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+</div>
 
-
-
-
-
-
-
-## Тестирование API и интеграций
+# Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
