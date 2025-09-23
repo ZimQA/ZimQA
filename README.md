@@ -7,8 +7,8 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=500)
-![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark&card_width=450)
+![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues&line_height=24&card_width=450)
 
 
 
