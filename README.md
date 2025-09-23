@@ -11,9 +11,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=ZimQA)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=donut&langs_count=6&hide_progress=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=German-D&show_icons=true&theme=radical&hide_title=true&hide=prs&card_width=300)
 
 
 
