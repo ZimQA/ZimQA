@@ -1,18 +1,14 @@
 <h3>Привет, я Станислав! 👋<br>QA Engineer | Manual & Automation Testing 👨‍💻</h3>
 
-🚀 Специалист по качеству с фокусом на процессы  
-🧠 Использую глубокое ручное тестирование для полного понимания продукта  
-💡 Автоматизирую тестирование для надежности и скорости  
-❤️ Разработка и тестирование — две стороны одного процесса
-
-<br>
+#### 🚀 Специалист по качеству с фокусом на процессы  
+#### 🧠 Использую глубокое ручное тестирование для полного понимания продукта  
+#### 💡 Автоматизирую тестирование для надежности и скорости  
+#### ❤️ Разработка и тестирование — две стороны одного процесса
 
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues,contribs,title&line_height=40&card_width=420)
-
-<br>
 
 ## 🧪 Мой инструментарий
 
@@ -87,21 +83,15 @@
     <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   </div>
 
-<br>
-
 ## 🪴 Практика и стажировка
 
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
 
-<br>
-
 ## 🎒 Образование
 
 [<img src="./Certificates/S\tajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Sajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
-
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
