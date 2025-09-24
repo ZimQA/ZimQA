@@ -5,12 +5,14 @@
 💡 Автоматизирую тестирование для надежности и скорости  
 ❤️ Разработка и тестирование — две стороны одного процесса
 
-## 📊 Статистика
-
 <br>
+
+## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues,contribs,title&line_height=40&card_width=420)
+
+<br>
 
 ## 🧪 Мой инструментарий
 
@@ -85,12 +87,14 @@
     <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   </div>
 
-## 🪴 Практика и стажировка
-
 <br>
+
+## 🪴 Практика и стажировка
 
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
+
+<br>
 
 ## 🎒 Образование
 
@@ -102,5 +106,3 @@
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/do)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
