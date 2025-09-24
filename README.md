@@ -83,15 +83,13 @@
     <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   </div>
 
-## 🪴 Практика и стажировка
+## 🪴 Образование
 
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
 
-## 🎒 Образование
-
-[<img src="./Certificates/S\tajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
-[<img src="./Certificates/Sajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
+[<img src="./Certificates/Sertificate-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Rus.png)
+[<img src="./Certificates/Sertificate-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Eng.png)
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
