@@ -86,7 +86,6 @@
 ## 🪴 Практика и стажировка
 
 <br>
-<br>
 
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
@@ -96,8 +95,6 @@
 [<img src="./Certificates/S\tajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Sajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 
-
-<br>
 <br>
 
 ## 🤝 Контакт
