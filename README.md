@@ -90,8 +90,8 @@
 
 ## 🎒 Образование
 
-[<img src="./Certificates/S\tajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
-[<img src="./Certificates/Sajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
+[<img src="./Certificates/S\tajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
+[<img src="./Certificates/Sajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
