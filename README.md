@@ -88,8 +88,8 @@
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
 
-[<img src="./Certificates/Sertificae-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Rus.png)
-[<img src="./Certificates/Sertificte-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Eng.png)
+[<img src="./Certificates/Sertificate-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Rus.png)
+[<img src="./Certificates/Sertificate-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Eng.png)
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
