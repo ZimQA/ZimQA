@@ -93,6 +93,12 @@
 [<img src="./Certificates/Sertificate-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Eng.png)
 
 ## 🤝 Контакты
-- 📁 **Мое портфолио**: [GitHub Repo](https://github.com/ZimQA/portfolio)
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:@)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@Stanislav_Zimovets)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:stanislav-zimovets@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Stanislav_Zimovets)
+
+---
+### 💫 Спасибо за визит! 
+
+*✨ Надеюсь, мое портфолио было полезным. Буду рад сотрудничеству!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Stanislav-Zimovets&color=blue&label=Просмотры+профиля)
