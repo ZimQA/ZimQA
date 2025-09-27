@@ -37,6 +37,7 @@
 ### **Фронтенд и инструменты разработки**
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
