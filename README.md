@@ -97,8 +97,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Stanislav_Zimovets)
 
 ---
-### 💫 Спасибо за визит! 
-
-*✨ Надеюсь, мое портфолио было полезным. Буду рад сотрудничеству!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Stanislav-Zimovets&color=blue&label=Просмотры+профиля)
+### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
