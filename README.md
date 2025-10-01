@@ -92,8 +92,8 @@
 [<img src="./Certificates/Sertificate-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Rus.png)
 [<img src="./Certificates/Sertificate-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Eng.png)
 
-[<img src="./Certificates/Sololearn_C++.jpeg" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sololearn_C++.jpeg)
-[<img src="./Certificates/Sololearn_Python.jpeg" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sololearn_Python.jpeg)
+[<img src="./Certificates/Sololearn_C++.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sololearn_C++.png)
+[<img src="./Certificates/Sololearn_Python.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sololearn_Python.png)
 
 ## 🤝 Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:stanislav-zimovets@yandex.ru)
