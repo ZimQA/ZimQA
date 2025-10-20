@@ -49,6 +49,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183775334-603b6fb4-6de0-4d81-8d80-6afc35b38111.png" title="JMeter" alt="JMeter" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp;
@@ -98,6 +99,7 @@
 ## 🤝 Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:stanislav-zimovets@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Stanislav_Zimovets)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://https://zimqa.github.io/)
 
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
