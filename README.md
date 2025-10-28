@@ -12,7 +12,7 @@
 
 ## 🧪 Мой инструментарий
 
-### **Фронтенд и инструменты разработки**
+### **Языки программирования**
 <div>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -21,11 +21,16 @@
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+</div>
+
+### **Инструменты разработки**
+<div>
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp; 
   <img src="https://skillicons.dev/icons?i=qt" title="QT" alt="QT" width="40" height="40"/>&nbsp; 
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
 ### **Автотесты**
@@ -36,7 +41,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Groovy-3.0+-4298B8?logo=apachegroovy" title="Groovy" alt="Groovy" width="75" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Spock-2.3+-blue?logo=test&logoColor=white" title="Spock" alt="Spock" width="65" height="20"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
 ### **Бэкенд и базы данных**
