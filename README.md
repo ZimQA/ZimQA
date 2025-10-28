@@ -14,6 +14,7 @@
 
 ### **Фронтенд и инструменты разработки**
 <div>
+  <img src="https://skillicons.dev/icons?i=jest" title="Spock" alt="Spock" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
