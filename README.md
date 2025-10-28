@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python Requests" alt="Python Requests" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d809d4c2dbffeefd9292b5f8370c6c78c8a/icons/Groovy.svg" title="Groovy" alt="Groovy" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spock-2.3+-blue?logo=apache&logoColor=white" title="Spock" alt="Spock" width="65" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spock-2.3+-blue?logo=test&logoColor=white" title="Spock" alt="Spock" width="65" height="20"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
