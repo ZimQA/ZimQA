@@ -37,7 +37,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python Requests" alt="Python Requests" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Groovy-3.0+-4298B8?logo=apachegroovy" title="Groovy" alt="Groovy" width="75" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Spock-2.3+-blue?logo=test&logoColor=white" title="Spock" alt="Spock" width="65" height="20"/>&nbsp;
@@ -45,16 +45,14 @@
 
 ### **Бэкенд и базы данных**
 <div>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp;
-  
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 </div>
-
-
-
-
 
 ### **Тестирование API и интеграций**
 <div>
