@@ -26,14 +26,15 @@
 ### **Инструменты разработки**
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp; 
-  <img src="https://skillicons.dev/icons?i=qt" title="QT" alt="QT" width="40" height="40"/>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=qt" title="QT" alt="QT" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
-### **Автотесты**
+### **Автотестирование**
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
@@ -45,7 +46,6 @@
 
 ### **Бэкенд и базы данных**
 <div>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
