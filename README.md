@@ -100,7 +100,7 @@
 [<img src="./Certificates/Stajirovka-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Rus.png)
 [<img src="./Certificates/Stajirovka-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении стажировки">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Stajirovka-Eng.png)
 
-[<img src="./Certificates/Sertificate-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Ru.png)
+[<img src="./Certificates/Sertificate-Rus.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-Rus.png)
 [<img src="./Certificates/Sertificate-Eng.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sertificate-En.png)
 
 [<img src="./Certificates/Sololearn_C++.png" width="400px" hspace="10px" alt="Сертификат о прохождении курсов">](https://raw.githubusercontent.com/ZimQA/ZimQA/main/Certificates/Sololearn_C++.png)
