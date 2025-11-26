@@ -8,8 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-[![Profile Views](https://komarev.com/ghpvc/?username=ZimQA&color=blue)](https://github.com/ZimQA)
-[![Repositories](https://badgen.net/github/repos/ZimQA)](https://github.com/ZimQA?tab=repositories)
+[![🐱 My Projects](https://img.shields.io/badge/🐱_My_Projects-Click_Here-orange?style=for-the-badge&logo=github)](https://github.com/ZimQA?tab=repositories)
 
 ## 🧪 Мой инструментарий
 
