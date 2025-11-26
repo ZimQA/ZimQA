@@ -8,7 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark" width="600" height="195" />
+![](https://activity-graph.herokuapp.com/graph?username=ZimQA&theme=dark&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 ## 🧪 Мой инструментарий
 
