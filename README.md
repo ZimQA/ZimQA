@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=2)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=1&margin-w=10&margin-h=10)
+![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=1&margin-w=10&margin-h=20)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=3&row=2)
