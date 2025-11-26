@@ -8,13 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-[![My Projects](https://img.shields.io/badge/🐱_Click_Me_For_Projects!-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZimQA?tab=repositories)
-[![Projects](https://user-images.githubusercontent.com/55300334/123456789-abc12345-1234-5678-abc123456789.png)](https://github.com/ZimQA?tab=repositories)
-[![![Alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)](https://github.com/ZimQA?tab=repositories)
-[![Explore My Code](https://img.shields.io/badge/🔍_Explore_My_Projects-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZimQA?tab=repositories)
-[<img src="https://github.com/ZimQA/ZimQA/blob/main/assets/cat-button.png" width="200">](https://github.com/ZimQA?tab=repositories)
-
-
+[<img src="https://raw.githubusercontent.com/ZimQA/ZimQA/main/assets/your-photo.jpg" width="200" height="200" style="border-radius: 50%;">](https://github.com/ZimQA?tab=repositories)
 
 ## 🧪 Мой инструментарий
 
