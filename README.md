@@ -7,7 +7,7 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=480)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 
 
 ## 🧪 Мой инструментарий
