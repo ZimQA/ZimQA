@@ -10,8 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=3&card_width=420)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)](https://github.com/ZimQA)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide_title=true&card_width=420)](https://github.com/ZimQA)
+| Most Used Languages | GitHub Stats |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420) | ![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&card_width=420) |
 
 ## 🧪 Мой инструментарий
 
