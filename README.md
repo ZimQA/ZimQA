@@ -8,7 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-[![🐱 My Projects](https://img.shields.io/badge/🐱_My_Projects-Click_Here-orange?style=for-the-badge&logo=github)](https://github.com/ZimQA?tab=repositories)
+[![My Projects](https://img.shields.io/badge/🐱_Click_Me_For_Projects!-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZimQA?tab=repositories)
 
 ## 🧪 Мой инструментарий
 
