@@ -7,14 +7,8 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=5&row=2&margin-w=5&margin-h=5)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=2&margin-w=10&margin-h=10)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=5&row=2&margin-w=5&margin-h=5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=8&theme=dark&card_width=420)
+![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=2&margin-w=8&margin-h=8)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
 ![](https://github-profile-trophy.vercel.app/?username=ZimQA&theme=dark&no-frame=true&column=4&row=2&margin-w=8&margin-h=8)
