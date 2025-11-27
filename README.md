@@ -8,7 +8,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimQA&layout=compact&langs_count=6&theme=dark&card_width=420)
-[<img src="https://raw.githubusercontent.com/ZimQA/ZimQA/main/assets/your-photo.jpg" width="20" height="10" style="border-radius: 50%;">](https://github.com/ZimQA?tab=repositories)
+![](https://github-readme-stats.vercel.app/api?username=ZimQA&show_icons=true&theme=dark&hide_rank=true&hide=prs,issues,contribs,title&line_height=40&card_width=420&cache_seconds=86400)
 
 ## 🧪 Мой инструментарий
 
