@@ -103,14 +103,7 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  
-  <div style="position: relative; width: 180px; height: 180px; border-radius: 10px; overflow: hidden; background: #f0f0f0;">
-    <img src="kotik.jpg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  
-  <div style="position: relative; width: 180px; height: 180px; border-radius: 10px; overflow: hidden; background: #f0f0f0;">
-    <img src="Motivacia.jpg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="kotik.jpg" width="100" height="100" style="object-fit: cover; border-radius: 8px;">
+  <img src="Motivacia.jpg" width="100" height="100" style="object-fit: cover; border-radius: 8px;">
 </div>
