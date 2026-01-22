@@ -104,6 +104,6 @@
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 90px;">
-  <img src="kotik.jpg" width="180" height="175" style="object-fit: cover; border-radius: 8px;">
+  <img src="kotik.jpg" width="180" height="174" style="object-fit: cover; border-radius: 8px;">
   <img src="Motivacia.jpg" width="180" height="180" style="object-fit: cover; border-radius: 8px;">
 </div>
