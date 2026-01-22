@@ -103,8 +103,7 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="kotik.jpg" alt="Котик" width="200" height="200">
-  <img src="Motivacia.jpg" alt="Мотивация" width="200" height="200">
-  <img src="Memchik.jpg" alt="Мемчик" width="200" height="200">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+  <img src="kotik.jpg" alt="Котик" width="200">
+  <img src="Motivacia.jpg" alt="Мотивация" width="200">
 </div>
