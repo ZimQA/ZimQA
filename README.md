@@ -103,7 +103,7 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 90px;">
-  <img src="kotik.jpg" width="180" height="173" style="object-fit: cover; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
   <img src="Motivacia.jpg" width="180" height="180" style="object-fit: cover; border-radius: 8px;">
+  <img src="kotik.jpg" width="180" height="173" style="object-fit: cover; border-radius: 8px;">
 </div>
