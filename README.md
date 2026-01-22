@@ -103,10 +103,10 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 80px; margin: 40px 0;">
-  <img src="kotik.jpg" alt="Котик" 
-       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: nowrap; width: 100%; min-width: 700px;">
+  <img src="./kotik.jpg" alt="Котик" 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px;">
   
-  <img src="Motivacia.jpg" alt="Мотивация" 
-       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+  <img src="./Motivacia.jpg" alt="Мотивация" 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px;">
 </div>
