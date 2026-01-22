@@ -105,12 +105,12 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   
-  <div style="width: 180px; height: 180px; overflow: hidden; border-radius: 10px;">
-    <img src="kotik.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div style="position: relative; width: 180px; height: 180px; border-radius: 10px; overflow: hidden; background: #f0f0f0;">
+    <img src="kotik.jpg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; object-fit: cover;">
   </div>
   
-  <div style="width: 180px; height: 180px; overflow: hidden; border-radius: 10px;">
-    <img src="Motivacia.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div style="position: relative; width: 180px; height: 180px; border-radius: 10px; overflow: hidden; background: #f0f0f0;">
+    <img src="Motivacia.jpg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; object-fit: cover;">
   </div>
   
 </div>
