@@ -103,16 +103,12 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0; padding: 20px;">
-  <div style="text-align: center;">
-    <img src="kotik.jpg" alt="Котик" 
-         style="width: 220px; height: 220px; object-fit: cover; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-    <p style="margin-top: 12px; font-size: 18px; font-weight: 600; color: #333;">Котик 🐱</p>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: 40px auto;">
+  <img src="kotik.jpg" alt="Котик" 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   
-  <div style="text-align: center;">
-    <img src="Motivacia.jpg" alt="Мотивация" 
-         style="width: 220px; height: 220px; object-fit: cover; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-    <p style="margin-top: 12px; font-size: 18px; font-weight: 600; color: #333;">Мотивация 💪</p>
-  </div>
+  <div style="width: 80px; text-align: center; color: #666; font-size: 24px;">⮕</div>
+  
+  <img src="Motivacia.jpg" alt="Мотивация" 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
 </div>
