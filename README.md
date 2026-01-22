@@ -103,11 +103,9 @@
 ---
 ### ✨ *Спасибо за посещение моего профиля! Хорошего дня!* 😊
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: 40px auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 80px; margin: 40px 0;">
   <img src="kotik.jpg" alt="Котик" 
        style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
-  
-  <div style="width: 80px; text-align: center; color: #666; font-size: 24px;">⮕</div>
   
   <img src="Motivacia.jpg" alt="Мотивация" 
        style="width: 300px; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
